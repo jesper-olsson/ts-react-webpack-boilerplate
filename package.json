@@ -9,7 +9,6 @@
     "build": "rm -rf dist && webpack --config webpack.prod.js --mode production",
     "serve": "http-server ./dist -o"
   },
-  "author": "Jesper Olsson",
   "license": "ISC",
   "dependencies": {
     "@types/react": "^16.8.14",
